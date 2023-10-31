@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ul,li{list-style: none;}
+img{display: block; max-width: 100%;}
+figure{width: fit-content; height: fit-content;}
+video,iframe{display: block;}
+a{text-decoration: none;color: inherit;}
+html{font-size: 15px;} 
+
+h1 span{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  font-size: 0;
+  overflow: hidden;
+}
