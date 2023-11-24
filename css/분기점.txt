@@ -1,0 +1,23 @@
+bs 반응형 미디어쿼리 분기점
+
+@media (max-width: 1199px) { 
+lg-size
+}
+
+@media (max-width: 991px) {
+md-size
+}
+
+@media (max-width: 767px) {
+sm-size
+}
+
+@media (max-width: 575px) {
+xs-size 
+}
+
+500size 밑으로 개발자툴 사용
+
+@media (max-width: 450px) {
+ mobile
+}
